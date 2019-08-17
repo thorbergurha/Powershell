@@ -1,0 +1,15 @@
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\bin\Debug\PSapp.exe.config
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\bin\Debug\PSapp.exe
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\bin\Debug\PSapp.pdb
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp.csprojAssemblyReference.cache
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\MainWindow.g.cs
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\App.g.cs
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp_MarkupCompile.cache
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp_MarkupCompile.lref
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\MainWindow.baml
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp.g.resources
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp.Properties.Resources.resources
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp.csproj.GenerateResource.cache
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp.csproj.CoreCompileInputs.cache
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp.exe
+C:\Users\Þorbergur Haraldsson\Documents\Powershell\PSapp\PSapp\obj\Debug\PSapp.pdb

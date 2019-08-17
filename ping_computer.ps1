@@ -60,6 +60,7 @@ $Form.Controls.Add($result_label)
 #end draw forms
 
 $Form.KeyPreview = $True
+$Form.Add_KeyDown({if ($_.KeyCode -eq "Enter"){& $ping_computer_click}})
 $Form.Add_KeyDown({if ($_.KeyCode -eq "Escape")
 {$Form.Close()}})
 

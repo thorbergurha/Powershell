@@ -8,8 +8,8 @@
     <Grid Margin="0,0,2,2">
         <Image HorizontalAlignment="Left" Height="79" Margin="24,24,0,0" VerticalAlignment="Top" Width="77" Source="C:\Users\Þorbergur Haraldsson\Pictures\PowerShell-logo.png"/>
         <TextBlock HorizontalAlignment="Left" Margin="106,24,0,0" TextWrapping="Wrap" Text="Use this tool to find out all sorts of useful disk information, and also to get rich input from your scripts and tools " VerticalAlignment="Top" Width="216" Height="79"/>
-        <Button Content="OK" HorizontalAlignment="Left" Margin="247,152,0,0" VerticalAlignment="Top" Width="53" Height="27"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="132,116,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="OkButton" Content="OK" HorizontalAlignment="Left" Margin="247,152,0,0" VerticalAlignment="Top" Width="53" Height="27"/>
+        <TextBox x:Name="CompName" HorizontalAlignment="Left" Height="23" Margin="132,116,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
